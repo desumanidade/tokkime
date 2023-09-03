@@ -40,7 +40,7 @@ Note that I'm learning all of this, I don't have full knowledge yet, and I'm con
 
 #
 
-## <img src="images/Cat.gif" width="27px"> Projets
+## <img src="images/Cat.gif" width="27px"> Projects
 
 <div align="center">404 Error: No Projects Found</div>
 
