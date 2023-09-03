@@ -5,12 +5,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <img src="images/Earth.gif" width="25px" style="margin-right: 10px;">
-  <span><b>Hello, World!</b></span>
-</div>
-
-
+## <img src="images/Earth.gif" width="30px"> Hello, World!
 
 I'm a rookie backend developer, trying to survive in Brazil 🇧🇷
 
