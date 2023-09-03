@@ -40,10 +40,7 @@ Note that I'm learning all of this, I don't have full knowledge yet, and I'm con
 
 #
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/Cat.gif" width="25px" style="margin-right: 10px;">
-  <span><b style="font-size: 34px;">Projects</b></span>
-</div>
+## <img src="images/Cat.gif" width="27px"> Projets
 
 <div align="center">404 Error: No Projects Found</div>
 
