@@ -11,7 +11,7 @@ I'm a rookie backend developer, trying to survive in Brazil 🇧🇷
 
 ### About Me
 
->I'm <span style="color: #FFD700;"><b>Gustavo</b></span><br>
+>I'm <span style="color: #FFD700;"><b>Tokkime</b></span><br>
 >I'm 16<br>
 >I live in <span style="color: #7CFC00;"><b>São Paulo, Brazil</b></span><br>
 >I'm hustlin' hard to become a <span style="color: #FFD700;"><b>backend developer</b></span><br>
